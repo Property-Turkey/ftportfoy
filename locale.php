@@ -21,7 +21,6 @@
             "contact" => "Bize Ulaşın",
             "announcements" => "Announcements",
             "news" => "Duyurular",
-            
 
             "cameron_deggin" => "KAMURAN DEGGİN’DEN",
             "a_message_from"=>"YATIRIMCILARA MESAJ",
