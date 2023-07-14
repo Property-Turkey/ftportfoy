@@ -152,17 +152,17 @@
             
             "tab_h3_5_1" => "ORTAĞIN ADI SOYADI",
             "tab_div_5_1_1" => "Kamuran DEGGIN",
-            "tab_div_5_1_2" => "3.200.000 TL",
+            "tab_div_5_1_2" => "7.200.000 TL",
             "tab_div_5_1_3" => "40%",
 
             "tab_h3_5_2" => "SERMAYEDEKİ PAYI",
             "tab_div_5_2_1" => "Christian Per VESTERMARK",
-            "tab_div_5_2_2" => "3.200.000 TL",
+            "tab_div_5_2_2" => "7.200.000 TL",
             "tab_div_5_2_3" => "40%",
 
             "tab_h3_5_3" => "SERMAYEDEKİ PAYI",
             "tab_div_5_3_1" => "Serkan TOPAKTAŞ",
-            "tab_div_5_3_2" => "1.600.000 TL",
+            "tab_div_5_3_2" => "3.600.000 TL",
             "tab_div_5_3_3" => "20%",
 
             "tab_header_6" => "YÖNETİM KURULU ve GENEL MÜDÜR", //tab 6
@@ -720,13 +720,13 @@
             "info_continue_sec2_h3_2" => "SERMAYEDEKİ PAYI",
             "info_continue_sec2_h3_3" => "SERMAYEDEKİ PAYI",
             "info_continue_sec2_key_1" => "Kamuran DEGGIN",
-            "info_continue_sec2_val_1" => "3.200.000 TL",
+            "info_continue_sec2_val_1" => "7.200.000 TL",
             "info_continue_sec2_val_2" => "40%",
             "info_continue_sec2_key_2" => "Christian Per VESTERMARK",
-            "info_continue_sec2_val_3" => "3.200.000 TL",
+            "info_continue_sec2_val_3" => "7.200.000 TL",
             "info_continue_sec2_val_4" => "40%",
             "info_continue_sec2_key_3" => "Serkan TOPAKTAŞ",
-            "info_continue_sec2_val_5" => "1.600.000 TL",
+            "info_continue_sec2_val_5" => "3.600.000 TL",
             "info_continue_sec2_val_6" => "20%",
             
             "info_continue_sec3_h2_1" => "KADROMUZ",
