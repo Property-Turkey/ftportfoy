@@ -31,9 +31,20 @@
                         <img src="img/Icon_Link_black.svg" class="h22px" title="Icon_Link" alt="Icon_Link"/>
                     </a>
                 </label>
-                <div><button class="butn butn-red"><?=__('contact')?></button></div>
+                <div><button type="submit" class="butn butn-red"><?=__('contact')?></button></div>
             </form>
 
         </div>
     </div>
 </header>
+
+
+<script>
+  document.getElementById("form").addEventListener("submit", function(event) {
+    var checkbox = document.getElementById("checkbox");
+    if (!checkbox.checked) {
+      event.preventDefault();
+      alert("Lütfen onay kutusunu işaretleyin!");
+    }
+  });
+</script>
