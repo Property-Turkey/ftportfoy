@@ -972,3 +972,20 @@ bi{
     .chartImg img{padding: 40px 10%;
     }
 }
+.partners {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap:wrap ;
+}
+.partner {
+display: flex;
+height: 100px;
+width: 123px;
+align-items: center;
+justify-content: center;
+}
+.partner img {
+    width: fit-content;
+    height: fit-content;
+}
