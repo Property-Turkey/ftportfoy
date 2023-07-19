@@ -230,12 +230,65 @@
                         <div class="col-12">
                             <h2><?=__('tab_header_8')?></h2>
                         </div>
-                        <div class="col-12">
-                            <div class="butn butn-blue-light butn-w100 bg-icon-link"><?=__('tab_8_btn')?></div>
+                        <div class="col-12 partners ">
+                            <div class="partner">
+                                <img src="img/partners/GYODER_Logo.webp" alt>
+                            </div>
+                            <div class="partner">
+                                <img src="img/partners/GİGDER_Logo.webp" alt>
+                            </div>
+                            <div class="partner">
+                                <img src="img/partners/Ekol Gayrimenkul Değerleme_Logo.webp" alt>
+                            </div>
+                            <div class="partner">
+                            <img src="img/partners/akbank-logo-300x150.webp" alt>
+                            </div>
+                            <div class="partner">
+                                <img src="img/partners/Bizim Menkul Değerler Logo.webp" alt>
+                            </div>
+                            <div class="partner">
+                                <img src="img/partners/Emlak Katılım Bankası.webp" alt>
+                            </div>
+                            <div class="partner">
+                                <img src="img/partners/integral-logo.webp" alt>
+                            </div>
+                            <div class="partner">
+                                <img src="img/partners/İdeal_Gayrimenkul Değerleme_Logo.webp" alt>
+                            </div>
+                            <div class="partner">
+                                <img src="img/partners/İSFA_Logo.webp" alt>
+                            </div>
+                            <div class="partner">
+                                <img src="img/partners/Mercek Bağımsız Denetim_Logo.webp" alt>
+                            </div>
+                            <div class="partner">
+                                <img src="img/partners/Optimus Yazılım-Logo.webp" alt>
+                            </div>
+                            <div class="partner">
+                                <img src="img/partners/İSLAM İKTİSADI ARAŞTIRMALARI VAKFI_Logo.webp" alt>
+                            </div>
+                            <div class="partner">
+                                <img src="img/partners/riskactive_Logo.webp" alt>
+                            </div>
+                            <div class="partner">
+                                <img src="img/partners/SGD Bağımsız denetim_Logo.webp" alt>
+                            </div>
+                            <div class="partner">
+                                <img src="img/partners/takasbank_Logo.webp" alt>
+                            </div>
+                            <div class="partner">
+                                <img src="img/partners/TKYD_Logo.webp" alt>
+                            </div>
+                            <div class="partner">
+                                <img src="img/partners/TSPB_Logo.webp" alt>
+                            </div>
+                            <div class="partner">
+                                <img src="img/partners/Yatırım Finansman_Logo.webp" alt>
+                            </div>
+                        <!-- <div class="butn butn-blue-light butn-w100 bg-icon-link"><?=__('tab_8_btn')?></div> -->
                         </div>
                     </div>
                 </div>
-
             </div>
         </div>
     </section>
