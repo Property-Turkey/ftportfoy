@@ -285,8 +285,6 @@
                             <div class="partner">
                                 <img src="img/partners/Yatırım Finansman_Logo.webp" alt>
                             </div>
-
-                            <!--Koza-YMM.webp needs to be added / I added it to the partners file and placed it, can you check and push? (Lara) -->
                             <div class="partner">
                                 <img src="img/partners/Koza-YMM.webp" alt>
                             </div>
