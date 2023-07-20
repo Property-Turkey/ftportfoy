@@ -231,12 +231,7 @@
                             <h2><?=__('tab_header_8')?></h2>
                         </div>
                         <div class="col-12 partners ">
-                            <div class="partner">
-                                <img src="img/partners/GYODER_Logo.webp" alt>
-                            </div>
-                            <div class="partner">
-                                <img src="img/partners/GİGDER_Logo.webp" alt>
-                            </div>
+    
                             <div class="partner">
                                 <img src="img/partners/Ekol Gayrimenkul Değerleme_Logo.webp" alt>
                             </div>
@@ -276,12 +271,8 @@
                             <div class="partner">
                                 <img src="img/partners/takasbank_Logo.webp" alt>
                             </div>
-                            <div class="partner">
-                                <img src="img/partners/TKYD_Logo.webp" alt>
-                            </div>
-                            <div class="partner">
-                                <img src="img/partners/TSPB_Logo.webp" alt>
-                            </div>
+                
+           
                             <div class="partner">
                                 <img src="img/partners/Yatırım Finansman_Logo.webp" alt>
                             </div>
@@ -289,6 +280,28 @@
                                 <img src="img/partners/Koza-YMM.webp" alt>
                             </div>
 
+                        <!-- <div class="butn butn-blue-light butn-w100 bg-icon-link"><?=__('tab_8_btn')?></div> -->
+                        </div>
+                        <div class="col-12">
+                            <h2><?=__('tab_header_9')?></h2>
+                        </div>
+                        <div class="col-12 partners ">
+
+                        <div class="partner">
+                                <img src="img/partners/GYODER_Logo.webp" alt>
+                            </div>
+
+                        <div class="partner">
+                                <img src="img/partners/GİGDER_Logo.webp" alt>
+                            </div>
+
+                            <div class="partner">
+                                <img src="img/partners/TKYD_Logo.webp" alt>
+                            </div>
+
+                            <div class="partner">
+                                <img src="img/partners/TSPB_Logo.webp" alt>
+                            </div>
                         <!-- <div class="butn butn-blue-light butn-w100 bg-icon-link"><?=__('tab_8_btn')?></div> -->
                         </div>
                     </div>

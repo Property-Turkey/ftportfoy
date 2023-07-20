@@ -254,6 +254,7 @@
 
             "tab_header_8" => "İŞ ORTAKLARIMIZ", //tab 8
             "tab_8_btn" => "YAKINDA GELECEK",
+            "tab_header_9" => "ÜYELİKLERİMİZ", //tab 9
 
             // FAQ
             "frequently_asked_questions" => "SIKÇA SORULAN SORULAR",
